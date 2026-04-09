@@ -6,7 +6,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
     const pin = inputPin.value;
     // console.log(pin)
 
-    if(contactNumber == '01741455731' && pin == '1234'){
+    if(contactNumber == '12312312312' && pin == '1234'){
         alert('login success');
 
         window.location.assign('/home.html')
