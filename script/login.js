@@ -10,7 +10,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
 
         alert('login success');
 
-        window.location.assign('home');
+        window.location.assign('/home.html');
     }
     else{
         alert('login failed');
