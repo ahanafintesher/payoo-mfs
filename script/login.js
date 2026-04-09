@@ -10,7 +10,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
 
         alert('login success');
 
-        window.location.assign('https://ahanafintesher.github.io/payoo-mfs/home.html');
+        window.location.assign('home');
     }
     else{
         alert('login failed');
