@@ -10,7 +10,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
 
         alert('login success');
 
-        window.location.assign('PAYOO/home.html')
+        window.location.assign('/payoo-mfs/home.html')
     }
     else{
         alert('login failed');
